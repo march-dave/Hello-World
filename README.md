@@ -1,5 +1,5 @@
 # Hello-World
 
-Hi,
+Branch README.md text file has been updated. 
 
-GitHub Branch create testing.
+See you in Master Branch
